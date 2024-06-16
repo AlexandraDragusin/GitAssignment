@@ -1,3 +1,6 @@
 Aceasta este prima linie din fiser.
+buna ziua
 Aceasta este a doua linie din fisier.
+ce mai faceti?
 Aceasta este a teria linie din fiser.
+buna sa va fie inima
