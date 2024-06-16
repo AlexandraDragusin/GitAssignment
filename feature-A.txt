@@ -1,0 +1,2 @@
+aici este mentionat primul feature:
+citim datele utilizatorului si daca se logheaza cu succes afisam statisticile ultimelor logari; altfel, se afiseaza un mesaj de eroare
