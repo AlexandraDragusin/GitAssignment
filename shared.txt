@@ -1,0 +1,3 @@
+Aceasta este prima linie din fiser.
+Aceasta este a doua linie din fisier.
+Aceasta este a teria linie din fiser.
